@@ -1,0 +1,12 @@
+# include<conio.h>
+# include<stdio.h>
+
+main()
+
+{
+
+printf{add two numbers,sum = a+b};
+
+scanf{ sum of two numbers is};
+
+}

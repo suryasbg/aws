@@ -5,7 +5,7 @@ main{
 
 {
 
-printf{sub of two number, a=30,b=20}
+printf{sub of two number, a=10,b=20}
 
 scanf{sub of two num is a-b}
 
